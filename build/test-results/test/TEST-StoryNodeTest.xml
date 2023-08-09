@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StoryNodeTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-08-09T17:00:32" hostname="MASTAFF-Eddie-Andress-Q22X0R9NP3.local" time="0.009">
+  <properties/>
+  <testcase name="testStoryNodeHasADescription()" classname="StoryNodeTest" time="0.006"/>
+  <testcase name="testStoryNodeCanHaveLeftChild()" classname="StoryNodeTest" time="0.0"/>
+  <testcase name="testStoryNodeCanHaveRightChild()" classname="StoryNodeTest" time="0.0"/>
+  <testcase name="testStoryNodeMapsInputToRightChild()" classname="StoryNodeTest" time="0.0"/>
+  <testcase name="testStoryNodeMapsBadInputToSelf()" classname="StoryNodeTest" time="0.0"/>
+  <testcase name="testStoryNodeMapsInputToLeftChild()" classname="StoryNodeTest" time="0.001"/>
+  <testcase name="testStoryNodeGeneratesStorySegment()" classname="StoryNodeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
